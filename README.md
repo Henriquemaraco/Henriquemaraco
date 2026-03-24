@@ -15,7 +15,7 @@ Buscando evoluir em **arquitetura de software**, **APIs** e **soluções escalá
   <a href="https://github.com/Henriquemaraco">
     <img src="https://img.shields.io/badge/GitHub-henriquemaraco-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/henrique-maraco-b544a3284/">
+  <a href="https://linkedin.com/in/henriquemaraco/">
     <img src="https://img.shields.io/badge/LinkedIn-Henriquemaraco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
